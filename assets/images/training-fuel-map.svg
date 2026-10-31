@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 290" role="img" aria-labelledby="title description">
+  <title id="title">Simple badminton session fuelling guide</title>
+  <desc id="description">Four adaptable reminders: build everyday meals from varied foods, have familiar food before play, drink to conditions during play, and eat a normal meal and rehydrate afterward.</desc>
+  <rect width="820" height="290" rx="20" fill="#f7f9f4"/>
+  <path d="M206 145h36M406 145h36M606 145h36" stroke="#718b29" stroke-width="4" stroke-linecap="round"/>
+  <g font-family="system-ui, sans-serif">
+    <g transform="translate(22 28)">
+      <rect width="184" height="234" rx="15" fill="#fff" stroke="#d5ded2" stroke-width="2"/>
+      <circle cx="92" cy="49" r="28" fill="#e7eddc"/>
+      <path d="M77 50h30M92 35v30" stroke="#526e22" stroke-width="4" stroke-linecap="round"/>
+      <text x="92" y="103" text-anchor="middle" fill="#718b29" font-size="13" font-weight="800" letter-spacing="1">EVERYDAY</text>
+      <text x="92" y="132" text-anchor="middle" fill="#102f2c" font-size="18" font-weight="800">Variety first</text>
+      <text x="92" y="160" text-anchor="middle" fill="#596b65" font-size="13">Meals built from familiar</text>
+      <text x="92" y="180" text-anchor="middle" fill="#596b65" font-size="13">carbohydrate, protein,</text>
+      <text x="92" y="200" text-anchor="middle" fill="#596b65" font-size="13">colour and fluids.</text>
+    </g>
+    <g transform="translate(222 28)">
+      <rect width="184" height="234" rx="15" fill="#fff" stroke="#d5ded2" stroke-width="2"/>
+      <circle cx="92" cy="49" r="28" fill="#e7eddc"/>
+      <path d="M77 57c10-4 20-4 30 0M79 47c9-4 17-4 26 0M86 37c5-3 9-3 13 0" fill="none" stroke="#526e22" stroke-width="3" stroke-linecap="round"/>
+      <text x="92" y="103" text-anchor="middle" fill="#718b29" font-size="13" font-weight="800" letter-spacing="1">BEFORE</text>
+      <text x="92" y="132" text-anchor="middle" fill="#102f2c" font-size="18" font-weight="800">Arrive fuelled</text>
+      <text x="92" y="160" text-anchor="middle" fill="#596b65" font-size="13">Choose a familiar meal</text>
+      <text x="92" y="180" text-anchor="middle" fill="#596b65" font-size="13">or snack that sits</text>
+      <text x="92" y="200" text-anchor="middle" fill="#596b65" font-size="13">comfortably with you.</text>
+    </g>
+    <g transform="translate(422 28)">
+      <rect width="184" height="234" rx="15" fill="#fff" stroke="#d5ded2" stroke-width="2"/>
+      <circle cx="92" cy="49" r="28" fill="#e7eddc"/>
+      <path d="M92 30c-7 12-15 18-15 27a15 15 0 0 0 30 0c0-9-8-15-15-27z" fill="none" stroke="#526e22" stroke-width="3"/>
+      <text x="92" y="103" text-anchor="middle" fill="#718b29" font-size="13" font-weight="800" letter-spacing="1">DURING</text>
+      <text x="92" y="132" text-anchor="middle" fill="#102f2c" font-size="18" font-weight="800">Drink to need</text>
+      <text x="92" y="160" text-anchor="middle" fill="#596b65" font-size="13">Keep water accessible;</text>
+      <text x="92" y="180" text-anchor="middle" fill="#596b65" font-size="13">consider conditions,</text>
+      <text x="92" y="200" text-anchor="middle" fill="#596b65" font-size="13">duration and your thirst.</text>
+    </g>
+    <g transform="translate(622 28)">
+      <rect width="184" height="234" rx="15" fill="#fff" stroke="#d5ded2" stroke-width="2"/>
+      <circle cx="92" cy="49" r="28" fill="#e7eddc"/>
+      <path d="M79 49h26M92 36v26M82 40l20 18M102 40 82 58" stroke="#526e22" stroke-width="3" stroke-linecap="round"/>
+      <text x="92" y="103" text-anchor="middle" fill="#718b29" font-size="13" font-weight="800" letter-spacing="1">AFTER</text>
+      <text x="92" y="132" text-anchor="middle" fill="#102f2c" font-size="18" font-weight="800">Eat and reset</text>
+      <text x="92" y="160" text-anchor="middle" fill="#596b65" font-size="13">Have your usual meal,</text>
+      <text x="92" y="180" text-anchor="middle" fill="#596b65" font-size="13">fluids and recovery;</text>
+      <text x="92" y="200" text-anchor="middle" fill="#596b65" font-size="13">no special product needed.</text>
+    </g>
+  </g>
+</svg>

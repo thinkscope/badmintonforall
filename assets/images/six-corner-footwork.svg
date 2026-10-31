@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" role="img" aria-labelledby="title description">
+  <title id="title">Six-corner badminton shadow footwork</title>
+  <desc id="description">A half-court diagram with a central ready position and six movement targets: front, middle, and rear on both the left and right.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0 0 8 4 0 8z" fill="#718b29"/>
+    </marker>
+  </defs>
+  <rect width="760" height="440" fill="#fff"/>
+  <rect x="55" y="45" width="650" height="350" rx="4" fill="#f7f9f4" stroke="#294d45" stroke-width="4"/>
+  <path d="M92 45v350M215 45v350M570 45v350M55 220h650" fill="none" stroke="#8a9b91" stroke-width="2"/>
+  <path d="M55 220h650" stroke="#294d45" stroke-width="5" stroke-dasharray="8 6"/>
+  <text x="60" y="30" fill="#526e22" font-family="system-ui, sans-serif" font-size="16" font-weight="700">NET</text>
+  <text x="700" y="423" fill="#526e22" font-family="system-ui, sans-serif" font-size="16" font-weight="700" text-anchor="end">BASELINE</text>
+  <g fill="none" stroke="#718b29" stroke-width="3" marker-end="url(#arrow)">
+    <path d="M380 220 145 120"/>
+    <path d="M380 220 145 320"/>
+    <path d="M380 220 380 120"/>
+    <path d="M380 220 380 320"/>
+    <path d="M380 220 640 120"/>
+    <path d="M380 220 640 320"/>
+  </g>
+  <g fill="#d9ff63" stroke="#102f2c" stroke-width="3" font-family="system-ui, sans-serif" font-size="16" font-weight="800" text-anchor="middle">
+    <circle cx="145" cy="120" r="20"/><text x="145" y="126" fill="#102f2c" stroke="none">1</text>
+    <circle cx="145" cy="320" r="20"/><text x="145" y="326" fill="#102f2c" stroke="none">2</text>
+    <circle cx="380" cy="120" r="20"/><text x="380" y="126" fill="#102f2c" stroke="none">3</text>
+    <circle cx="380" cy="320" r="20"/><text x="380" y="326" fill="#102f2c" stroke="none">4</text>
+    <circle cx="640" cy="120" r="20"/><text x="640" y="126" fill="#102f2c" stroke="none">5</text>
+    <circle cx="640" cy="320" r="20"/><text x="640" y="326" fill="#102f2c" stroke="none">6</text>
+  </g>
+  <circle cx="380" cy="220" r="28" fill="#102f2c" stroke="#d9ff63" stroke-width="4"/>
+  <text x="380" y="216" fill="#fff" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">READY</text>
+  <text x="380" y="230" fill="#fff" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">BASE</text>
+  <g fill="#526e22" font-family="system-ui, sans-serif" font-size="17" font-weight="700" text-anchor="middle">
+    <text x="145" y="82">Front left</text>
+    <text x="145" y="366">Front right</text>
+    <text x="380" y="82">Mid left</text>
+    <text x="380" y="366">Mid right</text>
+    <text x="640" y="82">Rear left</text>
+    <text x="640" y="366">Rear right</text>
+  </g>
+</svg>
